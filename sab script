@@ -21,18 +21,18 @@ getgenv().BRAINROT_CONFIG = {
         DESYNC_KEYBIND         = nil,
 
         -- Main Features
-        AUTO_TP_ENABLED        = false,
-        AUTO_HIDE_ENABLED      = false,
+        AUTO_TP_ENABLED        = true,
+        AUTO_HIDE_ENABLED      = true,
         AUTO_STEAL_ENABLED     = false,
         AUTO_STEAL_NEAREST_ENABLED = false,
         AUTO_STEAL_PRIORITY_ENABLED = false,
         PREDICTIVE_STEAL       = true,
-        OptimizerEnabled       = false,
+        OptimizerEnabled       = true,
         FLOOR_STEAL_ENABLED    = false,
         AUTO_DESYNC_ENABLED    = false,
         STEAL_SPEED_ENABLED    = false,
         STEAL_DISABLE_ANIM_ENABLED = false,
-
+AUTO SPAWN BRAINROT=true
         GUI_POSITION_X = nil,
         GUI_POSITION_Y = nil,
         MINI_GUI_POSITION_X = nil,
